@@ -91,7 +91,10 @@ progress{
     background-color: #a9a9a9;
     color: #808080; 
 }
-
+.information{
+        display: flex;
+        flex-wrap: wrap;
+}
 .socials{
     padding-bottom: 200px;
 }
