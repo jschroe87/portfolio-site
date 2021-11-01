@@ -3,19 +3,19 @@ body{
 }
 
 section{
-    background-color: lightgray;
+    background-color: #F4A442;
 }
 
 .hero{
-    background-color: darkolivegreen;
+    background-color:#125C13;
     height: 100vh;
-    color: lightgray;
+    color: #F4A442;
     font-size: 40px;
 
 }
 
 footer{
-    background-color: darkolivegreen;
+    background-color: #125C13;
     color: white;
     text-align: center;
     padding: 80px;
