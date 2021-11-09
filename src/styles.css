@@ -3,20 +3,20 @@ body{
 }
 
 section{
-    background-color: #F4A442;
+    background-color: #5C3D2E;
 }
 
 .hero{
-    background-color:#125C13;
+    background-color:#2D2424;
     height: 100vh;
-    color: #F4A442;
+    color: #B85C38;
     font-size: 40px;
 
 }
 
 footer{
-    background-color: #125C13;
-    color: white;
+    background-color: #2D2424;
+    color: #B85C38;
     text-align: center;
     padding: 80px;
 }
@@ -160,7 +160,7 @@ hr{
 
 .project-link{
    text-decoration: none;
-   color: #ef744b; 
+   color: #B85C38; 
 }
 
 a{
