@@ -3,20 +3,20 @@ body{
 }
 
 section{
-    background-color: #5C3D2E;
+    background-color: #519872;
 }
 
 .hero{
-    background-color:#2D2424;
+    background-color:#382933;
     height: 100vh;
-    color: #B85C38;
+    color: #3B5249;
     font-size: 40px;
 
 }
 
 footer{
-    background-color: #2D2424;
-    color: #B85C38;
+    background-color: #382933;
+    color: #3B5249;
     text-align: center;
     padding: 80px;
 }
