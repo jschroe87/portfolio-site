@@ -9,14 +9,14 @@ section{
 .hero{
     background-color:#382933;
     height: 100vh;
-    color: #3B5249;
+    color: #519872;
     font-size: 40px;
 
 }
 
 footer{
     background-color: #382933;
-    color: #3B5249;
+    color: #519872;
     text-align: center;
     padding: 80px;
 }
@@ -125,7 +125,7 @@ p{
 .project-card{
     width: 300px;
     height: 500px;
-    box-shadow:5px 5px 20px grey;
+    box-shadow:5px 5px 20px #000000;
     margin: 10px;
 }
 
@@ -152,7 +152,7 @@ hr{
 
 .project-link{
    text-decoration: none;
-   color: #B85C38; 
+   color: #382933; 
 }
 
 a{
