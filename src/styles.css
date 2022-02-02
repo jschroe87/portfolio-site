@@ -20,8 +20,8 @@ section{
 }
 
 footer{
-    background-color: #2629b;
-    color: #519872;
+    background-color: #26292B;
+    color: #5F7ADB;
     text-align: center;
     padding: 80px;
 }
@@ -74,7 +74,7 @@ p{
     width: 200px;
     height: 50px;
     border-radius: 30px;
-    background-color: #A2bee;
+    background-color: #5F7ADB;
     text-align: center;
     font-weight: 300px;
     font-size: 30px;
@@ -82,7 +82,7 @@ p{
     margin-top: 20px;
 }
 .button:hover {
-    background-color: #ef744b;
+    background-color: #A2B2EE;
 }
 .button:active {
     background-color: #a9a9a9;
