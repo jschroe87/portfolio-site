@@ -12,7 +12,12 @@ section{
 }
 
 .hero{
-    background-color:#2e3239;
+   background: rgba( 46, 50, 57, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
     height: 100vh;
     color: #5F7ADB;
     font-size: 40px;
@@ -20,7 +25,12 @@ section{
 }
 
 footer{
-    background-color: #26292B;
+    background: rgba( 38, 41, 43, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
     color: #5F7ADB;
     text-align: center;
     padding: 80px;
